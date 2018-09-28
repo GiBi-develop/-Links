@@ -2,3 +2,4 @@
 2) https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Colors/Color_picker_tool - инструмент по выбору цвета
 3) https://developer.mozilla.org/ru/docs/Web/Guide/CSS/Getting_started/Selectors - селекторы CSS 
 4) <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/> - Connecting to Bootstrap without download
+5) https://dribbble.com - дизайны для сайтов и прочей творческой деятельности
