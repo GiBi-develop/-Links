@@ -11,3 +11,4 @@
 1. Bootstrap без скачивания: \<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
 1. [Сайт с графикой и анимацией](https://speckyboy.com/)
 1. [Шаблоны html + css](https://html-templates.info/)
+1. [Сайт MDN web docs](https://developer.mozilla.org/ru/)
