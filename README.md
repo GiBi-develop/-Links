@@ -9,5 +9,5 @@
 1. [Селекторы CSS](https://developer.mozilla.org/ru/docs/Web/Guide/CSS/Getting_started/Selectors)
 1. [Дизайны для сайтов и прочей творческой деятельности](https://dribbble.com)
 1. Bootstrap без скачивания: \<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
-1.Сайт с графикой и анимацией - https://speckyboy.com/
+1. Сайт с графикой и анимацией - https://speckyboy.com/
 
