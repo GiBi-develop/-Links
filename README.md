@@ -1,14 +1,23 @@
-#GitHub
-1. [Учебник по Git](https://git-scm.com/book/ru/v2)
-1. [Разметка этого файла (.md)](http://coddism.com/zametki/razmetka_readmemd_v_github)
+## Shell commands
+============================
+### ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#JS
-1. [Учебник по js](https://learn.javascript.ru/)
-1. [Шрифты](https://fonts.google.com/)
-1. [Инструмент по выбору цвета](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Colors/Color_picker_tool)
-1. [Селекторы CSS](https://developer.mozilla.org/ru/docs/Web/Guide/CSS/Getting_started/Selectors)
-1. [Дизайны для сайтов и прочей творческой деятельности](https://dribbble.com)
-1. Bootstrap без скачивания: \<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
-1. [Сайт с графикой и анимацией](https://speckyboy.com/)
-1. [Шаблоны html + css](https://html-templates.info/)
-1. [Сайт MDN web docs](https://developer.mozilla.org/ru/)
+### 1. Увеличение времени таймаута SSH соединения в Linux
+
+Здесь находится конфигурационный файл для ssh
+
+`sudo nano /etc/ssh/sshd_config`
+
+> **ClientAliveInterval** Задает интервал (в секундах), с которым сервер SSH отправляет клиенту сообщение keepalive (сигнал, отправляемый для проверки активности клиента
+
+> **ClientAliveCountMax** Определяет количество keepalive-сообщений, которые могут быть отправлены клиенту без получения ответа
+
+Общее время таймаута SSH-соединения определяется такой формулой
+
+**Timeout time = ClientAliveInterval * ClientAliveCountMax**
+
+После изменения настроека необходимо перезагрузить служку `ssh`:
+
+`sudo systemctl reload sshd`
+
+### 2. Еще команды
